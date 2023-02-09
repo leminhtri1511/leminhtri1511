@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **HTMl/CSS, JS,...**
 
-- 📫 How to reach me **trile20021511@gmail.com**
+- 📫 How to reach me: **trile20021511@gmail.com**
 
-- ⚡ Fun fact **I'm funny**
+- ⚡ Fun fact: **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
