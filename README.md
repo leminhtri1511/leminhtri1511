@@ -12,7 +12,6 @@
 
 - 📫 How to reach me: **trile20021511@gmail.com**
 
-- ⚡ Fun fact: **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
