@@ -1,3 +1,5 @@
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PurSF_jJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h9hrqci095gjctvz9pmz.gif)]
+
 <h1 align="center">Hi 👋, I'm Le Minh Tri</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
