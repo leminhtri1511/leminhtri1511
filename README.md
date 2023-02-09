@@ -1,4 +1,4 @@
-[![MasterHead](https://freefrontend.com/assets/img/html-del-ins-with-css/correction-del-and-ins.gif)]
+![MasterHead](https://freefrontend.com/assets/img/html-del-ins-with-css/correction-del-and-ins.gif)
 
 <h1 align="center">Hi 👋, I'm Le Minh Tri</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
