@@ -1,9 +1,8 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PurSF_jJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h9hrqci095gjctvz9pmz.gif)]
-
+![MasterHead](https://www.learnupon.com/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif)
 <h1 align="center">Hi 👋, I'm Le Minh Tri</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761161c881b18219beeceb016122f51d8a77bf655ebc&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="500" src="https://blog.imarticus.org/wp-content/uploads/2021/12/bwgg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leminhtri1511&label=Profile%20views&color=0e75b6&style=flat" alt="leminhtri1511" /> </p>
 
