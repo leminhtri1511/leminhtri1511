@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Le Minh Tri</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
-<img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="Coding" width="450" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117803b5970e35d58adbfefd09117decfdc3dd5ba6&rid=giphy.gif&ct=g">
 
 
 - 🔭 I’m currently study at <a href="https://husc.edu.vn/en/viewpage.php?page_id=1">Hue University of Sciences</a>
