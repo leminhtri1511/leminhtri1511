@@ -7,7 +7,7 @@
 <!-- <img align="right" alt="Coding" width="450" src="https://www.existus.com/assets/images/image-sw-development.gif"> -->
 
 
-- 🏫 I’m currently study at <a href="https://husc.edu.vn/en/viewpage.php?page_id=1">Hue University of Sciences</a>
+- 🏨 I’m currently study at <a href="https://husc.edu.vn/en/viewpage.php?page_id=1">Hue University of Sciences</a>
 - 📝 I’m currently learning **HTMl/CSS, JS,...**
 - 📫 How to reach me: **trile20021511@gmail.com**
 
