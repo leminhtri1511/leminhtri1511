@@ -18,7 +18,7 @@
     <tr>
         <td width="48%">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leminhtri1511&layout=compact" />
-            <img src="https://github-readme-stats.vercel.app/api?username=leminhtri1511&hide=contribs,issues" />
+            <img src="https://github-readme-stats.vercel.app/api?username=leminhtri1511&hide=contribs" />
         </td>
         <td width="45%">
             <h3 align="center">Connect with me:</h3>
