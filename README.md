@@ -8,7 +8,7 @@
 
 - 🏨 I’m currently study at <a href="https://husc.edu.vn/en/viewpage.php?page_id=1">Hue University of Sciences</a>
 - 📝 I’m working on **Mobile Develop !**
-- 📫 How to reach me: **letri151102@gmail.com**
+- 📫 How to reach me: **leminhtri151102@gmail.com**
 
 ---
 
