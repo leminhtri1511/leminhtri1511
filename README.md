@@ -6,9 +6,9 @@
 <!-- <h3 align="center">A passionate frontend developer</h3> -->
 <!-- <img align="right" alt="Coding" width="450" src="https://www.existus.com/assets/images/image-sw-development.gif"> -->
 
-- 🏨 I’m currently study at <a href="https://husc.edu.vn/en/viewpage.php?page_id=1">Hue University of Sciences</a>
+- 🏨 I’m currently study at <a href="https://husc.edu.vn/en/viewpage.php?page_id=1"> **Hue University of Sciences** </a>
 - 📝 I’m working on **Mobile Develop !**
-- 📫 How to reach me: **leminhtri151102@gmail.com**
+- 📫 How to reach me: <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsvBZVKVcphnBMmjPqQZrQwhFqlfQfWwNJTlbHtdxwMNVRwZCKLWVBxVglRjtlbCKgwcBBnV"> **leminhtri151102@gmail.com** </a>   
 
 ---
 
